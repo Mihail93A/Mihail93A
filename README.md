@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 :triangular_flag_on_post: Что особенного:
 
 - [x] Описание модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
 - [x] Шаблоны форматирования логов запросов
 
 
