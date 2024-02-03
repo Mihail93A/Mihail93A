@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="[https://github.com/ElenaSkorobodilova/open-library-api-tests](https://github.com/Mihail93A/GUI">API</a></br></br>
+:l:link: Тестовый проект: <a target="_blank" href="https://github.com/Mihail93A/Rest-Api-Project">open-library-api-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://reqres.in/.</br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Описание модели получаемых данных с помощью библиотеки Lombok
